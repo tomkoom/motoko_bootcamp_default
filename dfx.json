@@ -1,0 +1,8 @@
+{
+	"canisters": {
+		"motoko_bootcamp2_default": {
+			"main": "main.mo",
+			"type:": "motoko"
+		}
+	}
+}
